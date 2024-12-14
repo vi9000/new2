@@ -25,6 +25,6 @@ switch(a1)
 } 
 return 0;
 }
-tyui
+
 
 
